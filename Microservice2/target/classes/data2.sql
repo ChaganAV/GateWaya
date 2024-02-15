@@ -1,3 +1,3 @@
---INSERT INTO note (title, description) VALUES ('гуляем', 'прогулка по лесу');
+--INSERT INTO note (title, description) VALUES (гуляем', 'прогулка по лесу')
 --INSERT INTO note (title, description) VALUES ('учеба', 'сделать тесты');
 --INSERT INTO note (title, description) VALUES ('магазин', 'купить продукты');
